@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-final",
+  "version": "1.0.0",
+  "description": "Creating my portfolio to what I believe represents my style and work",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellevpark/Portfolio-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellevpark/Portfolio-final/issues"
+  },
+  "homepage": "https://github.com/ellevpark/Portfolio-final#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
