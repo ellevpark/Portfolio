@@ -26,12 +26,10 @@ h2 {
 
 h3 {
   color: #000000b0;
-  font-family: 'Montserrat', sans-serif;
 }
 
 h4 {
   color: #000000b0;
-  font-family: 'Montserrat', sans-serif;
 }
 
 p {
@@ -42,7 +40,7 @@ hr {
   border: dotted #53535381 6px;
   border-bottom: none;
   width: 4%;
-  margin: 50px auto
+  margin: 20px auto
 }
 
 .navbar {
@@ -60,65 +58,33 @@ hr {
   margin: 3em 5em 3em;
 }
 
-.middle-container {
-  padding: 50px 0 50px;
-  background-image: url("../images/both-plant.jpg");
-  background-size: cover;
-  border: 2px solid rgba(71, 82, 82, 0.404);
-  border-radius: 2px;
-  margin: 3em 5em 3em;
+
+a{
+  color: #000000b0;
+  margin: 10px 20px;
+  text-decoration: none;
 }
 
-.section {
-  padding: 50px 0 auto;
-}
-
-.skill-logo {
-  height: 40px;
-  width: 40px;
-  margin-right: 10px;
-}
-
-.list-group-item {
-  background-color: rgba(187, 187, 221, 0.151);
-  text-align:justify;
-  padding-left: 7em;
-  letter-spacing: 2px;
-}
-
-.list-group-item:hover {
+a:hover {
   color: rgb(163, 194, 221);
 }
 
-.color-box {
-  width: 50%;
-  margin: 50px auto 50px auto;
-  text-align: left;
-  padding: 20px;
-  background-color: rgba(187, 187, 221, 0.295);
-}
+.header-links {
+  padding: 2px;
+  margin: 0;
 
-.pro {
-  text-decoration: underline;
 }
-
-#propic {
-  padding: 1em;
-  border-radius: 50%;
-  height: 15em;
-  width: 15em;
-}
-
-.footer {
-  padding: 50px 0 20px;
-  background-size: cover;
+.resume-content {
+  background-color: rgba(225, 225, 238, 0.733);
+  padding: 20px 50px;
+  margin: 3em 5em 3em;
+  color: black !important;
 }
 
 .btn {
   background-color: #bdd4e7;
   background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
   border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -133,28 +99,8 @@ hr {
   text-decoration: none;
 }
 
-a{
-  color: #000000b0;
-  font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
-  text-decoration: none;
-}
-
-a:hover {
-  color: rgb(163, 194, 221);
-}
-
-
 .copyright {
   color: #ffffff;
   font-size: 0.75rem;
   padding: 20px 0;
-}
-
-
-
-@media only screen and (max-width: 767px) {
-  html {
-     background-image: url(smaller-image.jpg);
-  }
 }
