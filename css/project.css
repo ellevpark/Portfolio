@@ -1,0 +1,67 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  background-color: #b8c6db;
+  background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #00000081;
+  font-size: 5.625rem;
+  margin: 20px auto 0 auto;
+  font-family: 'Parisienne', cursive, sans-serif;
+}
+
+h2 {
+  color: #000000b0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-bottom: 1em;
+  font-weight: normal;
+}
+
+h3 {
+  color: #000000b0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color: #000000b0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  text-align: center;
+}
+
+hr {
+  border: dotted #53535381 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto
+}
+
+section {
+  padding: 50px 0 auto;
+}
+
+.navbar {
+  border: 2px solid rgba(149, 185, 185, 0.055);
+  border-radius: 2px;
+  margin: .5em 5em 0;
+}
+.top-container {
+  background-image: url("../images/left-plant.jpg");
+  background-size: cover;
+  position: relative;
+  padding: 20px 50px;
+  border: 2px solid rgba(71, 82, 82, 0.404);
+  border-radius: 2px;
+  margin: 3em 5em 3em;
+}
+
+
