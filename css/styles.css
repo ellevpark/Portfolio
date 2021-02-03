@@ -48,9 +48,14 @@ section {
 }
 
 .navbar {
-  border: 2px solid rgba(149, 185, 185, 0.055);
   border-radius: 2px;
-  margin: .5em 5em 0;
+  margin: .3em 5em 0px;
+  background-color:transparent !important;
+}
+.navbar-brand {
+  font-family: 'Parisienne', cursive, sans-serif;
+  font-size: 2.5rem;
+  line-height: 1em;
 }
 
 .top-container {
@@ -60,7 +65,7 @@ section {
   padding: 20px 50px;
   border: 2px solid rgba(71, 82, 82, 0.404);
   border-radius: 2px;
-  margin: 3em 5em 3em;
+  margin: 1em 5em 3em;
 }
 
 .bottom-container {
