@@ -48,7 +48,7 @@ hr {
   border-radius: 2px;
   margin: .5em 5em 0;
 }
-.top-container {
+.resume-container {
   background-image: url("../images/left-plant.jpg");
   background-size: cover;
   position: relative;
@@ -58,14 +58,14 @@ hr {
   margin: 3em 5em 3em;
 }
 
-.bottom-container {
+/* .bottom-container {
   padding: 50px 0 50px;
   background-image: url("../images/both-plant.jpg");
   background-size: cover;
   border: 2px solid rgba(71, 82, 82, 0.404);
   border-radius: 2px;
   margin: 3em 5em 3em;
-}
+} */
 
 
 
